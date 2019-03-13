@@ -1,0 +1,67 @@
+{
+    "georgetown": {
+        "id": "georgetown",
+        "labels": "vector-tiles/guyana.mbtiles.gz",
+        "images": [
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C1R1.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C1R2.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C1R3.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C2R1.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C2R2.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C2R3.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C3R1.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C3R2.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C3R3.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C4R1.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C4R2.tif",
+            "georgetown/imagery/Guyana_2017-2018-50cm_BGRN_C4R3.tif"
+        ],
+        "aois": [
+            "georgetown/aois/1.geojson",
+            "georgetown/aois/2.geojson",
+            "georgetown/aois/3.geojson",
+            "georgetown/aois/4.geojson",
+            "georgetown/aois/5.geojson"
+        ]
+    },
+    "paramaribo": {
+        "id": "paramaribo",
+        "shifts": [-2, -2],
+        "labels": "vector-tiles/suriname.mbtiles.gz",
+        "images": [
+            "paramaribo/imagery/PARAMARIMBO_2015_ORTO_1_1.tif"
+        ],
+        "aois": [
+            "paramaribo/aois/paramaribo-aoi1_4_0.geojson",
+            "paramaribo/aois/paramaribo-aoi1_7_0.geojson",
+            "paramaribo/aois/paramaribo-aoi1_8_0.geojson",
+            "paramaribo/aois/paramaribo-aoi1_9_0.geojson"
+        ]
+    },
+    "paramaribo_test": {
+        "id": "paramaribo_test",
+        "shifts": [-2, -2],
+        "labels": "vector-tiles/suriname.mbtiles.gz",
+        "images": [
+            "paramaribo/imagery/paramaribo_test.tif"
+        ],
+        "aois": [
+            "paramaribo/aois/paramaribo-aoi1_4_0.geojson",
+            "paramaribo/aois/paramaribo-aoi1_7_0.geojson"
+        ]
+    },
+    "belice": {
+        "id": "belice",
+        "shifts": [3.0, 3.0],
+        "labels": "vector-tiles/belize.mbtiles.gz",
+        "images": [
+            "belice/imagery/new_belice.tif"
+        ],
+        "aois": [
+            "belice/aois/1.geojson",
+            "belice/aois/2.geojson",
+            "belice/aois/3.geojson",
+            "belice/aois/4.geojson"
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "per_scene": {
+        "paramaribo": [
+            {
+                "f1": 0.6706897060484263,
+                "class_id": 1,
+                "class_name": "Building",
+                "recall": 0.5907978217259985,
+                "gt_count": 398297,
+                "precision": 0.8157124610799462,
+                "count_error": 35338.595849328514
+            },
+            {
+                "f1": 0.9779211922338837,
+                "class_id": 2,
+                "class_name": "Background",
+                "recall": 0.988432481549394,
+                "gt_count": 4903904,
+                "precision": 0.9677080317167578,
+                "count_error": 22677.52899893635
+            },
+            {
+                "f1": 0.9548422144182165,
+                "class_id": null,
+                "class_name": "average",
+                "recall": 0.9585624913125699,
+                "gt_count": 5302201,
+                "precision": 0.956290248837925,
+                "count_error": 23628.617979401377
+            }
+        ],
+        "georgetown": [
+            {
+                "f1": 0.696545142675816,
+                "class_id": 1,
+                "class_name": "Building",
+                "recall": 0.6727823983283598,
+                "gt_count": 1650116,
+                "precision": 0.7312762356826312,
+                "count_error": 102185.83024466159
+            },
+            {
+                "f1": 0.9316138359161258,
+                "class_id": 2,
+                "class_name": "Background",
+                "recall": 0.9385881286188333,
+                "gt_count": 7060459,
+                "precision": 0.9255506110649818,
+                "count_error": 84961.57575477743
+            },
+            {
+                "f1": 0.8870828363190926,
+                "class_id": null,
+                "class_name": "average",
+                "recall": 0.8882343588109853,
+                "gt_count": 8710575,
+                "precision": 0.8887476152571938,
+                "count_error": 88224.50821581813
+            }
+        ],
+        "belice": [
+            {
+                "f1": 0.6225613523868586,
+                "class_id": 1,
+                "class_name": "Building",
+                "recall": 0.5483707959326921,
+                "gt_count": 793547,
+                "precision": 0.7233095404222883,
+                "count_error": 102398.52962836479
+            },
+            {
+                "f1": 0.9141549719247809,
+                "class_id": 2,
+                "class_name": "Background",
+                "recall": 0.9426697172189155,
+                "gt_count": 2975199,
+                "precision": 0.887790532672264,
+                "count_error": 87706.03038048885
+            },
+            {
+                "f1": 0.8527570316010075,
+                "class_id": null,
+                "class_name": "average",
+                "recall": 0.8596461528582716,
+                "gt_count": 3768746,
+                "precision": 0.8531574218292961,
+                "count_error": 90799.68240709245
+            }
+        ]
+    },
+    "overall": [
+        {
+            "f1": 0.6722633942786497,
+            "class_id": 1,
+            "class_name": "Building",
+            "recall": 0.6265535053273092,
+            "gt_count": 2841960,
+            "precision": 0.7408853604216545,
+            "count_error": 92876.66827189685
+        },
+        {
+            "f1": 0.9433372877273565,
+            "class_id": 2,
+            "class_name": "Background",
+            "recall": 0.9557623576916109,
+            "gt_count": 14939562,
+            "precision": 0.9318688817271332,
+            "count_error": 65063.42295992347
+        },
+        {
+            "f1": 0.9000124720999042,
+            "class_id": null,
+            "class_name": "average",
+            "recall": 0.9031460299067761,
+            "gt_count": 17781522,
+            "precision": 0.9013446370528406,
+            "count_error": 69508.71907387907
+        }
+    ]
+}
