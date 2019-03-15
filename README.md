@@ -1,4 +1,4 @@
-# Raster Vision Building Segmentation for IDB
+# Raster Vision Building Classificatoion for IDB
 
 ## Description and Context
 This repo contains code for running a [Raster Vision](https://github.com/azavea/raster-vision) experiment to train a model to segment buildings in three cities in Latin America:
@@ -6,7 +6,7 @@ This repo contains code for running a [Raster Vision](https://github.com/azavea/
 * Paramaribo, Suriname
 * Belice, Belize
 
-The experiment analyzes the imagery, generates training chips, trains a model, make predictions, evaluates the predictions, and produces a prediction package which can be used to make predictions on new imagery. Training the model in a reasonable amount of time (a day as opposed to a month) requires a machine with a high-end NVIDIA GPU. It's possible to rent one in the cloud using the instructions for using AWS Batch. Below is an example of predictions over Georgetown, with predicted building pixels colored orange.
+The experiment analyzes the imagery, generates training chips, trains a model, make predictions (classifications), evaluates the predictions, and produces a prediction package which can be used to make predictions on new imagery. Training the model in a reasonable amount of time (a day as opposed to a month) requires a machine with a high-end NVIDIA GPU. It's possible to rent one in the cloud using the instructions for using AWS Batch. Below is an example of predictions over Georgetown, with predicted building pixels colored orange.
 
 ![Example predictions over Georgetown](img/georgetown-preds.png)
 
