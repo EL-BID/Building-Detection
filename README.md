@@ -171,7 +171,9 @@ python -m idb.nodata_transform 10 /opt/data/input/belice/imagery/belice.tif \
 
 ## License
 
-This repo uses the [AM-331-A3 Software License](LICENSE).
+The Documentation of Support and Use of the software is licensed under Creative Commons IGO 3.0 Attribution-NonCommercial-NoDerivative (CC-IGO 3.0 BY-NC-ND)
+
+The codebase of this repo uses the [AM-331-A3 Software License](LICENSE.md).
 
 ## Credits
 
