@@ -170,8 +170,9 @@ python -m idb.nodata_transform 10 /opt/data/input/belice/imagery/belice.tif \
 [Lewis Fishgold](https://github.com/lewfish) @ [Azavea](https://www.azavea.com/)
 
 ## License
+The Documentation of Support and Use of the software is licensed under Creative Commons IGO 3.0 Attribution-NonCommercial-NoDerivative (CC-IGO 3.0 BY-NC-ND)
 
-This repo uses the [AM-331-A3 Software License](LICENSE).
+The codebase of this repo uses [AM-331-A3 Software License](LICENSE).
 
 ## Credits
 
