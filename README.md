@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/EL-BID/idb-omk-pilot/blob/master/IDB_logo.jpg">
+
 # Raster Vision Building Segmentation for IDB
 
 ## Description and Context
