@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/EL-BID/idb-omk-pilot/blob/master/IDB_logo.jpg">
+<img align="right" src="https://github.com/EL-BID/Building-Detection/blob/master/img/IDB_logo.jpg">
 
-# Raster Vision Building Segmentation for IDB
+# Raster Vision Building Segmentation
 
 ## Description and Context
 This repo contains code for running a [Raster Vision](https://github.com/azavea/raster-vision) experiment to train a model to segment buildings in three cities in Latin America:
