@@ -1,4 +1,4 @@
-<img align="right" width="164" height="70" src="https://github.com/EL-BID/Building-Detection/blob/master/img/IDB_logo.jpg"><img align="right" height="60" src="https://github.com/EL-BID/Building-Detection/blob/master/img/azavea_RGB_72dpi_trans_sm.png">
+<img align="right" width="164" height="70" src="https://github.com/EL-BID/Building-Detection/blob/master/img/IDB_logo.jpg"><img align="right" height="55" src="https://github.com/EL-BID/Building-Detection/blob/master/img/azavea_RGB_72dpi_trans_sm.png">
 
 
 # Raster Vision Building Segmentation
