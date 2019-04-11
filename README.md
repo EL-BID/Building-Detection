@@ -1,4 +1,4 @@
-# Raster Vision Building Classification for IDB                                         ![IDB logo](img/IDB_logo.jpg | width=100)
+# Raster Vision Building Classification for IDB                                         ![IDB logo](img/IDB_logo.jpg){:height="50%" width="50%"}
 
 ## Description and Context
 This repo contains code for running a [Raster Vision](https://github.com/azavea/raster-vision) experiment to train a model to segment buildings in three cities in Latin America:
