@@ -4,7 +4,7 @@
 # Raster Vision Building Detection
 
 ## Description and Context
-This repo contains code for running a [Raster Vision](https://github.com/azavea/raster-vision) experiment to train a model to segment buildings in three cities in Latin America:
+This repo contains code for running a [Raster Vision](https://github.com/azavea/raster-vision) experiment to train a model to detect buildings in three cities in Latin America:
 * Georgetown, Guyana
 * Paramaribo, Suriname
 * Belice, Belize
