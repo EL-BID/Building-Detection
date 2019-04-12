@@ -1,7 +1,7 @@
 <img align="right" height="39" src="https://github.com/EL-BID/Building-Detection/blob/master/img/azavea_RGB_72dpi_trans_sm.png"><img align="right" width="115" height="49" src="https://github.com/EL-BID/Building-Detection/blob/master/img/IDB_logo.jpg">
 
 
-# Raster Vision Building Segmentation
+# Raster Vision Building Detection
 
 ## Description and Context
 This repo contains code for running a [Raster Vision](https://github.com/azavea/raster-vision) experiment to train a model to segment buildings in three cities in Latin America:
