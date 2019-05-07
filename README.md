@@ -29,7 +29,6 @@ To use this with a more recent commit/version of Raster Vision it may be necessa
 
 To get the scripts, source files, and data needed to run the experiment, clone this repo and then retrieve the data bundle.
 
-TODO insert location of data bundle
 
 Unzip the data bundle on the local filesystem to run the experiment locally. To run the experiment on AWS, unzip the dataset and upload it to an S3 bucket. The expected layout of this data bundle is
 ```
