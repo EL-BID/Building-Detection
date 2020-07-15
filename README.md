@@ -2,7 +2,8 @@
 
 
 # Raster Vision Building Detection
-
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Building-Detection/readme?useReferer)](https://github.com/EL-BID/Building-Detection/)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_Building-Detection&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_Building-Detection)
 ## Description and Context
 This repo contains code for running a [Raster Vision](https://github.com/azavea/raster-vision) experiment to train a model to detect buildings from satellite imagery in three cities in Latin America:
 * Georgetown, Guyana
